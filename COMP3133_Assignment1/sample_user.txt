@@ -1,0 +1,10 @@
+### Sample User for Testing Login
+
+**Username:** testuser
+**Email:** test@example.com
+**Password:** password123
+
+### Steps to test:
+1. Use the **Signup** mutation first to create the account.
+2. Use the **Login** query with the same credentials to receive a JWT token.
+3. (Optional) Use the token in the `Authorization` header as `Bearer <token>` for any future protected logic.
