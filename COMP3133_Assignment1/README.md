@@ -3,7 +3,7 @@
 This is a GraphQL API built with Node.js, Express, and MongoDB for managing employee records and user authentication.
 
 ## Student Information
-- **Name:** [Your Full Name]
+- **Name:** Idrish Yusuf Kaidawala
 - **Student ID:** 101498470
 - **Assignment:** Assignment 1
 - **Course:** COMP 3133 - Full Stack Development II
